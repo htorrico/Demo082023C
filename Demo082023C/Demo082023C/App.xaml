@@ -4,7 +4,7 @@
              x:Class="Demo082023C.App">
     <Application.Resources>
 <ResourceDictionary>
-            <Style TargetType="Label" x:Key="style1">
+            <!--<Style TargetType="Label" x:Key="style1">
                 <Setter Property="TextColor" Value="White"/>
                 <Setter Property="BackgroundColor" Value="Red"/>
                 <Setter Property="FontSize" Value="50"/>
@@ -18,7 +18,7 @@
             <Style TargetType="Button" >
                 <Setter Property="TextColor" Value="White"/>
                 <Setter Property="BackgroundColor" Value="Green"/>
-            </Style>
+            </Style>-->
 
         </ResourceDictionary>
     </Application.Resources>
